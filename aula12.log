@@ -1,0 +1,65 @@
+[2021-10-29 08:59:50] [ ERROR] [Main:13] DEU ERRADO AQUI Ó
+[2021-10-29 09:30:58] [ ERROR] [Main:34] DEU ERRADO AQUI Ó
+[2021-10-29 09:45:09] [ ERROR] [Main:31] DEU ERRADO AQUI Ó
+[2021-10-29 09:45:10] [ WARN ] [Main:65] Usuario ViniciusMendes
+[2021-10-29 09:45:10] [ WARN ] [Main:65] Usuario FelipeRosa
+[2021-10-29 09:45:10] [ WARN ] [Main:65] Usuario MatheusDalmas
+[2021-10-29 09:45:10] [ INFO ] [Main:50] O Usuario Felipe foi deletado
+[2021-10-29 09:45:10] [ WARN ] [Main:65] Usuario ViniciusMendes
+[2021-10-29 09:45:10] [ WARN ] [Main:65] Usuario MatheusDalmas
+[2021-10-29 09:45:29] [ ERROR] [Main:31] DEU ERRADO AQUI Ó
+[2021-10-29 09:45:29] [ WARN ] [Main:65] Usuario Vinicius Mendes
+[2021-10-29 09:45:29] [ WARN ] [Main:65] Usuario Felipe Rosa
+[2021-10-29 09:45:29] [ WARN ] [Main:65] Usuario Matheus Dalmas
+[2021-10-29 09:45:29] [ INFO ] [Main:50] O Usuario Felipe foi deletado
+[2021-10-29 09:45:29] [ WARN ] [Main:65] Usuario Vinicius Mendes
+[2021-10-29 09:45:29] [ WARN ] [Main:65] Usuario Matheus Dalmas
+[2021-10-29 10:20:54] [ ERROR] [Main:44] Syntax error in SQL statement "INSERT INTO filmes (id, nome, ano, diretor, classificacao) VALUES (2, 'Ender's Game', 2013, 'Gavin Hood', '12[*]')"; SQL statement:
+INSERT INTO filmes (id, nome, ano, diretor, classificacao) VALUES (2, 'Ender's Game', 2013, 'Gavin Hood', '12') [42000-199]
+[2021-10-29 10:20:54] [ WARN ] [Main:60] Usuario Harry Potter e a Pedra Filosofal 2001
+[2021-10-29 10:21:39] [ ERROR] [Main:44] CANNOT REPEAT AN IDSyntax error in SQL statement "INSERT INTO filmes (id, nome, ano, diretor, classificacao) VALUES (2, 'Ender's Game', 2013, 'Gavin Hood', '12[*]')"; SQL statement:
+INSERT INTO filmes (id, nome, ano, diretor, classificacao) VALUES (2, 'Ender's Game', 2013, 'Gavin Hood', '12') [42000-199]
+[2021-10-29 10:21:39] [ WARN ] [Main:60] Usuario Harry Potter e a Pedra Filosofal 2001
+[2021-10-29 10:22:29] [ ERROR] [Main:44] CANNOT REPEAT AN ID Syntax error in SQL statement "INSERT INTO filmes (id, nome, ano, diretor, classificacao) VALUES (2, 'Ender's Game', 2013, 'Gavin Hood', '12[*]')"; SQL statement:
+INSERT INTO filmes (id, nome, ano, diretor, classificacao) VALUES (2, 'Ender's Game', 2013, 'Gavin Hood', '12') [42000-199]
+[2021-10-29 10:22:29] [ INFO ] [Main:60] Usuario Harry Potter e a Pedra Filosofal 2001
+[2021-10-29 10:22:56] [ ERROR] [Main:44] CANNOT REPEAT AN ID Syntax error in SQL statement "INSERT INTO filmes (id, nome, ano, diretor, classificacao) VALUES (2, 'Ender's Game', 2013, 'Gavin Hood', '12[*]')"; SQL statement:
+INSERT INTO filmes (id, nome, ano, diretor, classificacao) VALUES (2, 'Ender's Game', 2013, 'Gavin Hood', '12') [42000-199]
+[2021-10-29 10:22:56] [ INFO ] [Main:60] Usuario Harry Potter e a Pedra Filosofal 2001
+[2021-10-29 10:23:38] [ INFO ] [Main:61] Usuario Harry Potter e a Pedra Filosofal 2001
+[2021-10-29 10:23:38] [ INFO ] [Main:61] Usuario Enders Game 2013
+[2021-10-29 10:23:38] [ INFO ] [Main:61] Usuario Tron: Legacy 2010
+[2021-10-29 10:23:38] [ INFO ] [Main:61] Usuario Enders Game 2013
+[2021-10-29 10:23:38] [ INFO ] [Main:61] Usuario Tron: Legacy 2010
+[2021-10-29 10:27:12] [ INFO ] [Main:64] ID: 1 Filme: Harry Potter e a Pedra Filosofal Ano: 2001 Diretor: Chris Columbus Classificação: Livre
+[2021-10-29 10:27:12] [ INFO ] [Main:64] ID: 2 Filme: Enders Game Ano: 2013 Diretor: Gavin Hood Classificação: 12
+[2021-10-29 10:27:12] [ INFO ] [Main:64] ID: 3 Filme: Tron: Legacy Ano: 2010 Diretor: Joseph Kosinski Classificação: 10
+[2021-10-29 10:27:12] [ WARN ] [Main:50] Deleted the movie with id 1
+[2021-10-29 10:27:12] [ INFO ] [Main:64] ID: 2 Filme: Enders Game Ano: 2013 Diretor: Gavin Hood Classificação: 12
+[2021-10-29 10:27:12] [ INFO ] [Main:64] ID: 3 Filme: Tron: Legacy Ano: 2010 Diretor: Joseph Kosinski Classificação: 10
+[2021-10-29 10:27:29] [ ERROR] [Main:45] CANNOT REPEAT AN ID Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FILMES(ID) [3, 'Enders Game', 2013, 'Gavin Hood', '12']"; SQL statement:
+INSERT INTO filmes (id, nome, ano, diretor, classificacao) VALUES (3, 'Tron: Legacy', 2010, 'Joseph Kosinski', '10') [23505-199]
+[2021-10-29 10:27:29] [ INFO ] [Main:64] ID: 1 Filme: Harry Potter e a Pedra Filosofal Ano: 2001 Diretor: Chris Columbus Classificação: Livre
+[2021-10-29 10:27:29] [ INFO ] [Main:64] ID: 3 Filme: Enders Game Ano: 2013 Diretor: Gavin Hood Classificação: 12
+[2021-10-29 10:27:29] [ WARN ] [Main:50] Deleted the movie with id 1
+[2021-10-29 10:27:29] [ INFO ] [Main:64] ID: 3 Filme: Enders Game Ano: 2013 Diretor: Gavin Hood Classificação: 12
+[2021-10-29 10:28:15] [ ERROR] [Main:45] || CANNOT REPEAT AN ID ||Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FILMES(ID) [3, 'Enders Game', 2013, 'Gavin Hood', '12']"; SQL statement:
+INSERT INTO filmes (id, nome, ano, diretor, classificacao) VALUES (3, 'Tron: Legacy', 2010, 'Joseph Kosinski', '10') [23505-199]
+[2021-10-29 10:28:15] [ INFO ] [Main:64] ID: 1 Filme: Harry Potter e a Pedra Filosofal Ano: 2001 Diretor: Chris Columbus Classificação: Livre
+[2021-10-29 10:28:15] [ INFO ] [Main:64] ID: 3 Filme: Enders Game Ano: 2013 Diretor: Gavin Hood Classificação: 12
+[2021-10-29 10:28:15] [ WARN ] [Main:50] Deleted the movie with id 1
+[2021-10-29 10:28:15] [ INFO ] [Main:64] ID: 3 Filme: Enders Game Ano: 2013 Diretor: Gavin Hood Classificação: 12
+[2021-10-29 10:46:25] [ INFO ] [Main:75] ID: 1 Filme: Harry Potter e a Pedra Filosofal Ano: 2001 Diretor: Chris Columbus Classificação: Livre
+[2021-10-29 10:46:25] [ INFO ] [Main:75] ID: 2 Filme: Enders Game Ano: 2013 Diretor: Gavin Hood Classificação: 12
+[2021-10-29 10:46:25] [ INFO ] [Main:75] ID: 3 Filme: Tron: Legacy Ano: 2010 Diretor: Joseph Kosinski Classificação: 10
+[2021-10-29 10:46:25] [ DEBUG] [Main:54] rs7: columns: 5 rows: 1 pos: 0
+[2021-10-29 10:46:25] [ INFO ] [Main:58] Deleted the movie with id=1
+[2021-10-29 10:46:25] [ INFO ] [Main:61] O filme Enders Game foi deletado
+[2021-10-29 10:46:25] [ INFO ] [Main:75] ID: 3 Filme: Tron: Legacy Ano: 2010 Diretor: Vinny Mendes Classificação: 10
+[2021-10-29 10:47:19] [ INFO ] [Main:75] ID: 1 Filme: Harry Potter e a Pedra Filosofal Ano: 2001 Diretor: Chris Columbus Classificação: Livre
+[2021-10-29 10:47:19] [ INFO ] [Main:75] ID: 2 Filme: Enders Game Ano: 2013 Diretor: Gavin Hood Classificação: 12
+[2021-10-29 10:47:19] [ INFO ] [Main:75] ID: 3 Filme: Tron: Legacy Ano: 2010 Diretor: Joseph Kosinski Classificação: 10
+[2021-10-29 10:47:19] [ DEBUG] [Main:54] O filme: Harry Potter e a Pedra Filosofal foi atualizado!
+[2021-10-29 10:47:19] [ INFO ] [Main:58] Deleted the movie with id=1
+[2021-10-29 10:47:19] [ INFO ] [Main:61] O filme Enders Game foi deletado
+[2021-10-29 10:47:19] [ INFO ] [Main:75] ID: 3 Filme: Tron: Legacy Ano: 2010 Diretor: Vinny Mendes Classificação: 10

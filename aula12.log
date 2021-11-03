@@ -63,3 +63,27 @@ INSERT INTO filmes (id, nome, ano, diretor, classificacao) VALUES (3, 'Tron: Leg
 [2021-10-29 10:47:19] [ INFO ] [Main:58] Deleted the movie with id=1
 [2021-10-29 10:47:19] [ INFO ] [Main:61] O filme Enders Game foi deletado
 [2021-10-29 10:47:19] [ INFO ] [Main:75] ID: 3 Filme: Tron: Legacy Ano: 2010 Diretor: Vinny Mendes Classificação: 10
+[2021-11-03 10:29:54] [ INFO ] [Main:58] ----------------------------
+[2021-11-03 10:29:54] [ INFO ] [Main:59] 1
+[2021-11-03 10:29:54] [ INFO ] [Main:60] abc123
+[2021-11-03 10:29:54] [ INFO ] [Main:61] Dorflex
+[2021-11-03 10:29:54] [ INFO ] [Main:62] NeoQuimica
+[2021-11-03 10:29:54] [ INFO ] [Main:63] 3
+[2021-11-03 10:29:54] [ INFO ] [Main:64] 10.99
+[2021-11-03 10:29:54] [ INFO ] [Main:65] ----------------------------
+[2021-11-03 10:29:54] [ INFO ] [Main:83] ----------------------------
+[2021-11-03 10:29:54] [ INFO ] [Main:84] 1
+[2021-11-03 10:29:54] [ INFO ] [Main:85] abc123
+[2021-11-03 10:29:54] [ INFO ] [Main:86] Dorflex
+[2021-11-03 10:29:54] [ INFO ] [Main:87] NeoQuimica
+[2021-11-03 10:29:54] [ INFO ] [Main:88] 3
+[2021-11-03 10:29:54] [ INFO ] [Main:89] 10.99
+[2021-11-03 10:29:54] [ INFO ] [Main:90] ----------------------------
+[2021-11-03 10:29:54] [ INFO ] [Main:108] ----------------------------
+[2021-11-03 10:29:54] [ INFO ] [Main:109] 1
+[2021-11-03 10:29:54] [ INFO ] [Main:110] abc123
+[2021-11-03 10:29:54] [ INFO ] [Main:111] Dorflex
+[2021-11-03 10:29:54] [ INFO ] [Main:112] NeoQuimica
+[2021-11-03 10:29:54] [ INFO ] [Main:113] 3
+[2021-11-03 10:29:54] [ INFO ] [Main:114] 10.99
+[2021-11-03 10:29:54] [ INFO ] [Main:115] ----------------------------

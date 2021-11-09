@@ -87,3 +87,24 @@ INSERT INTO filmes (id, nome, ano, diretor, classificacao) VALUES (3, 'Tron: Leg
 [2021-11-03 10:29:54] [ INFO ] [Main:113] 3
 [2021-11-03 10:29:54] [ INFO ] [Main:114] 10.99
 [2021-11-03 10:29:54] [ INFO ] [Main:115] ----------------------------
+[2021-11-08 22:20:15] [ INFO ] [Main:106] Tabela excluída
+[2021-11-08 22:20:15] [ INFO ] [Main:23] Tabela 'dentista' criada
+[2021-11-08 22:20:15] [ INFO ] [Main:38] Dentista 'Vinny' inserido na tabela com sucesso!
+[2021-11-08 22:20:15] [ INFO ] [Main:38] Dentista 'Bruno' inserido na tabela com sucesso!
+[2021-11-08 22:20:15] [ INFO ] [Main:38] Dentista 'Tiago' inserido na tabela com sucesso!
+[2021-11-08 22:20:15] [ INFO ] [Main:86] Resultados da tabela dentista:
+[2021-11-08 22:20:15] [ INFO ] [Main:90] ID: 1 Nome: Vinny Sobrenome: Mendes Matrícula: 123
+[2021-11-08 22:20:15] [ INFO ] [Main:90] ID: 2 Nome: Bruno Sobrenome: Novo Matrícula: 321
+[2021-11-08 22:20:15] [ INFO ] [Main:90] ID: 3 Nome: Tiago Sobrenome: Mathias Matrícula: 132
+[2021-11-08 22:20:27] [ INFO ] [Main:106] Tabela excluída
+[2021-11-08 22:20:27] [ INFO ] [Main:23] Tabela 'dentista' criada
+[2021-11-08 22:20:27] [ INFO ] [Main:38] Dentista 'Vinny' inserido na tabela com sucesso!
+[2021-11-08 22:20:27] [ INFO ] [Main:38] Dentista 'Bruno' inserido na tabela com sucesso!
+[2021-11-08 22:20:27] [ INFO ] [Main:38] Dentista 'Volpi' inserido na tabela com sucesso!
+[2021-11-08 22:20:27] [ INFO ] [Main:86] Resultados da tabela dentista:
+[2021-11-08 22:20:27] [ INFO ] [Main:90] ID: 1 Nome: Vinny Sobrenome: Mendes Matrícula: 123
+[2021-11-08 22:20:27] [ INFO ] [Main:90] ID: 2 Nome: Bruno Sobrenome: Novo Matrícula: 321
+[2021-11-08 22:20:27] [ INFO ] [Main:90] ID: 3 Nome: Volpi Sobrenome: Volpi Matrícula: 132
+[2021-11-08 22:20:27] [ INFO ] [Main:66] Busca pelo dentista de id: 1
+[2021-11-08 22:20:27] [ INFO ] [Main:66] Busca pelo dentista de id: 2
+[2021-11-08 22:20:27] [ INFO ] [Main:66] Busca pelo dentista de id: 3
